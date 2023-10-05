@@ -1,0 +1,8 @@
+data/
+uploads/
+extensions/
+
+.env
+.env.*
+
+node_modules/
